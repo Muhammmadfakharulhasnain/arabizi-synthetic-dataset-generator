@@ -125,9 +125,4 @@ export OPENAI_API_KEY="your-key-here"
 Computer Science student |  AI Engineer
 
 
-```
 
----
-
-Would you like me to generate this as actual files for download? Or help you write your initial GitHub commit message?
-```
