@@ -20,25 +20,36 @@ A pipeline to generate **Lebanese Arabizi** (Arabic in Latin script, e.g., "kifa
 
 ```
 
-arabizi-synthetic-dataset-generator/
+arabizi_dataset_generator/
 │
-├── main.py                     # Run the full pipeline
-├── data/
-│   ├── input\_dataset.json      # English prompt-response pairs
-│   └── output\_dataset.json     # Final output with Arabizi and variants
+├── data/                        
+│   ├── raw/                         #  Original and Input English dataset (CSV/JSON)
+│   ├── translated/                 # processed datasets / GPT-translated Arabizi files
+│   ├── corrected/                  # After regex corrections
+│   └── final/                      # Final output with variants
 │
-├── src/
-│   ├── utils.py                # File I/O helpers
-│   ├── gpt\_wrapper.py          # OpenAI GPT interface
-│   ├── transliteration.py      # Regex correction rules
-│   ├── orthographic\_variants.py # Rule-based variant generation
+├── scripts/                         # Core processing scripts
+│   ├── 1_preprocess.py             # Clean and prepare English input
+│   ├── 2_translate_gpt.py          # Translate to Arabizi via GPT
+│   ├── 3_postprocess_regex.py      # Regex-based correction
+│   ├── 4_generate_variants.py      # Orthographic variation generation
+│   └── 5_save_output.py            # Save final output to JSON
+│
+├── utils/                           # Helper functions
+│   ├── gpt_api.py                  # GPT calling function
+│   ├── regex_rules.py              # Regex correction dictionary
+│   ├── variant_rules.py            # Variation generation rules
+│   └── io_utils.py                 # File I/O utilities
 │
 ├── config/
-│   ├── regex\_rules.json        # Regex phonetic correction patterns
-│   └── variant\_rules.json      # Orthographic transformation rules
+│ ├── regex_rules.json # Regex phonetic correction patterns
+│ └── variant_rules.json # Orthographic transformation rules
 │
-└── requirements.txt            # Python dependencies
-
+├── .env                             # Environment variables (e.g., OpenAI key)
+├── .gitignore
+├── requirements.txt                 # Python dependencies
+├── README.md                        # Project overview and setup
+└── main.py                          # Entrypoint script to run full pipeline
 ````
 
 ---
