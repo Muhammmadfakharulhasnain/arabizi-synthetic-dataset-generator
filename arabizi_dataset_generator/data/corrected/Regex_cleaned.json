@@ -1,0 +1,86 @@
+[
+  {
+    "prompt": "'Say , Jim , how about going for a few beers after dinner",
+    "response": "'\n ' You know that is tempting but is really not good for our fitness",
+    "prompt_arabizi": "'Eh, Jim, shou bi nrou7 nshrab shway bira ba3d el 3asha?'",
+    "response_arabizi": "'Bheb, 3arif enno hayda mawjoud bas ma baddo ykaffi lal fitness te3na.'"
+  },
+  {
+    "prompt": "'\n ' What do you mean",
+    "response": "It will help us to relax",
+    "prompt_arabizi": "Shou ya3ni?",
+    "response_arabizi": "Bi2a3idna nirkod."
+  },
+  {
+    "prompt": "'\n  Do you really think so",
+    "response": "I don't",
+    "prompt_arabizi": "Ma3ek bte23en hek?",
+    "response_arabizi": "Ma3eesh"
+  },
+  {
+    "prompt": "It will just make us fat and act silly",
+    "response": "Remember last time",
+    "prompt_arabizi": "Heik ra7 yikhalliyna ne7neb w nsekh",
+    "response_arabizi": "3am ttekel 3a akher marra"
+  },
+  {
+    "prompt": "I guess you are right.But what shall we do",
+    "response": "I don't feel like sitting at home",
+    "prompt_arabizi": "ana bya3rif ennak sa7. Bass shou ne7na nefham?",
+    "response_arabizi": "Ma bya3ne fiyye abqa bil beit."
+  },
+  {
+    "prompt": "' I suggest a walk over to the gym where we can play singsong and meet some of our friends",
+    "response": "'\n  That's a good idea",
+    "prompt_arabizi": "ana bte7dar n3eml meshwar la 3al gym w nrou7 n7affif w nla3eb singsong w nshouf shwayet 7ayawen",
+    "response_arabizi": ""
+  },
+  {
+    "prompt": "If they are willing , we could ask them to go dancing with us.That is excellent exercise and fun , too",
+    "response": "'\n  Good.Let ' s go now",
+    "prompt_arabizi": "Law 3ajboun, ne2dar nes2aloun yiro7u yerdou ma3ana ra2is. Heik ra2i7a w mabsouta",
+    "response_arabizi": "Mni7, yalla rou7na halla2"
+  },
+  {
+    "prompt": "' All right",
+    "response": "'",
+    "prompt_arabizi": "'Khalas",
+    "response_arabizi": "'"
+  },
+  {
+    "prompt": "'Can you do pushups",
+    "response": "'\n  Of course I can",
+    "prompt_arabizi": "Bt2ader tsir pushups?",
+    "response_arabizi": "Tab3an, ana b2ader."
+  },
+  {
+    "prompt": "It's a piece of cake",
+    "response": "Believe it or not , I can do 30 pushups a minute",
+    "prompt_arabizi": "Ma32oul",
+    "response_arabizi": "Wallah, ana 3am bi2dar aswi 30 pushups bel da2i2"
+  },
+  {
+    "prompt": "Really",
+    "response": "I think that's impossible",
+    "prompt_arabizi": "B7ebbik",
+    "response_arabizi": "ana 3am b7ess enno ma fiyyi 3mell haida"
+  },
+  {
+    "prompt": "' You mean 30 pushups",
+    "response": "'\n ' Yeah",
+    "prompt_arabizi": "'Biddak t2oul 30 pushups?'",
+    "response_arabizi": "'"
+  },
+  {
+    "prompt": "'\n  It's easy",
+    "response": "If you do exercise everyday , you can make it , too",
+    "prompt_arabizi": "'Helo",
+    "response_arabizi": "Law t3emmel riyaDa kl youm, bte2dar t2adda."
+  },
+  {
+    "prompt": "'Can you study with the radio on",
+    "response": "'\n ' No , I listen to background music",
+    "prompt_arabizi": "Biddak tedros ma3 iradiyo wala la?",
+    "response_arabizi": "La2, ana bheb asma3 muzik khalf el 3alam."
+  }
+]

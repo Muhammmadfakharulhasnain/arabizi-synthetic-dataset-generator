@@ -1,0 +1,11 @@
+{"prompt_variant": "hachich", "response_variant": "Betaarref", "error": "Invalid Arabizi"}
+{"prompt_variant": "hachich", "response_variant": "Betaarref", "error": "Invalid Arabizi"}
+{"prompt_variant": "'", "response_variant": "' Oh, ehh, la' chukran", "error": "Invalid Arabizi"}
+{"prompt_variant": "'", "response_variant": "' Oh, ehh, laa chukran", "error": "Invalid Arabizi"}
+{"item": {"prompt": "'\n ' I also have blow if you prefer to do a few lines", "response": "'\n ' No , I am ok , really"}, "error": "[Errno 2] No such file or directory: '../data/corrected/skipped_entries.jsonl'"}
+{"prompt_variant": "La', ana mnih, bhake bhake", "response_variant": "Ya zalame", "error": "Invalid Arabizi"}
+{"prompt_variant": "La', ana mnih, bhake bhake", "response_variant": "Ya zalame", "error": "Invalid Arabizi"}
+{"prompt_variant": "Ya zalame", "response_variant": "Fi harami w asid", "error": "Invalid Arabizi"}
+{"prompt_variant": "Ya zalame", "response_variant": "Fi harami w asid", "error": "Invalid Arabizi"}
+{"prompt_variant": "ana aam bi aalamet", "response_variant": "Just tell me chou biddak w ana b'ek whde ounce bala shi", "error": "Invalid Arabizi"}
+{"prompt_variant": "ana aam bi aalamet", "response_variant": "Just tell me chou biddak w ana baek whde ounce bala shi", "error": "Invalid Arabizi"}
