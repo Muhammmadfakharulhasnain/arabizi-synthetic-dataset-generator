@@ -122,7 +122,7 @@ export OPENAI_API_KEY="your-key-here"
 ## ✍️ Author
 
 **Muhammad Fakhar ul Hasnain**
-Computer Science student |  AI Engineer
+ |  AI Engineer
 
 
 
